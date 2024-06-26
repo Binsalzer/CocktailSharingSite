@@ -3,4 +3,5 @@ The application includes features such as: Signing into account, uploading image
 
 Technologies used for this project:
 Backend using C# with Entity Framework and SqlServer as Database.
-Frontend using React
+Frontend using React.
+Bootstrap used for Html styling.
